@@ -1,5 +1,5 @@
 {
-  "name": "kompg45",
+  "name": "veritas-kompg45",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
